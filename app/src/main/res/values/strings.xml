@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">P3AgArchivoTextoGOL</string>
+    <string name="nombre">Alumno: Ortega López Gustavo</string>
+    <string name="grup">Grupo: 7S11</string>
+    <string name="proy">Proyecto: Agenda con archivos de texto</string>
+
+    <string name="agen">Agenda</string>
+    <string name="Add">Agregar</string>
+    <string name="List">Listar</string>
+    <string name="Delete">Eliminar</string>
+    <string name="New">Nuevo</string>
+    <string name="Name">Nombre</string>
+    <string name="Tel">Telefono</string>
+    <string name="Address">Dirección</string>
+    <string name="Email">Correo</string>
+    <string name="Save">Guardar</string>
+    <string name="Back">Regresar</string>
+    <string name="agrega">AGREGAR</string>
+    <string name="listar">LISTAR</string>
+    <string name="elimina">ELIMINAR</string>
+</resources>
